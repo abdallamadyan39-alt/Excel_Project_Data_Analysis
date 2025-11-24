@@ -3,7 +3,7 @@ My project demonstrating my Excel skills
 
 ## First project
 is a salary dashboard.   
-[Checkout my work here](https://github.com/user-attachments/files/23732985/First.project.xlsx)
+[Checkout my work here](Firstproject)
 
 <img width="1347" height="619" alt="1_Salary_Dashboard" src="https://github.com/user-attachments/assets/255da844-d027-4a12-9fb1-6cd2dab74830" />
 
