@@ -1,4 +1,4 @@
-[First project.xlsx](https://github.com/user-attachments/files/23732990/First.project.xlsx)# Excel_Project_Data_Analysis
+# Excel_Project_Data_Analysis
 My project demonstrating my Excel skills
 
 ## First project
